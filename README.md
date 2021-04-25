@@ -7,7 +7,7 @@ The USERS.txt file defines the closed set of users that you want to chat to. The
 ## Compilation of Source Code
 Compile the source code using the following command:
 ```
-gcc -o app app.c
+gcc app.c -o app
 ```
 ## Running the application
 Run the application using the following format:
